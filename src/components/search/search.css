@@ -1,0 +1,10 @@
+async-paginate-container{
+    width: 100%;
+    position: center;
+    display: flex;
+}
+.search-container {
+    width: 30%;
+    margin: 20px auto;
+    /* change the margin to move where it is on the page */
+}
